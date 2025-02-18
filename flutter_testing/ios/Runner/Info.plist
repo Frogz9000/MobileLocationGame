@@ -34,6 +34,9 @@
 	<string>We need your location to provide continuous tracking features.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>We need your location to provide accurate tracking at all times.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>This app requires access to the barometer to provide altitude information.</string>
+
 
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
